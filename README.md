@@ -5,7 +5,7 @@ A Laravel wrapper for sending SMS via Macrokiosk, built for speed and concurrenc
 ## Installation
 
 ```bash
-composer require pisopay/sms-wrapper
+composer require devcbh/sms-wrapper
 ```
 
 ## Configuration
