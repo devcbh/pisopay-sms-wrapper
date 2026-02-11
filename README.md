@@ -1,4 +1,4 @@
-# Devcbh SMS Wrapper
+# SMS Wrapper for Pisopay
 
 A Laravel wrapper for sending SMS via Macrokiosk, built for speed and concurrency.
 

@@ -1,6 +1,6 @@
 {
     "name": "devcbh/sms-wrapper",
-    "description": "A Laravel wrapper for sending SMS via Macrokiosk",
+    "description": "A Laravel wrapper for sending SMS",
     "type": "library",
     "license": "proprietary",
     "version": "1.0.0",
